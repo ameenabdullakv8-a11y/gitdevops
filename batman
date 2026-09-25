@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Web Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Sample Website</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About This Page</h2>
+            <p>This is a simple paragraph demonstrating standard HTML structure.</p>
+            <p>You can use this boilerplate as a starting point for building your web pages.</p>
+        </section>
+
+        <section>
+            <h2>Useful Elements</h2>
+            <!-- Example of a hyperlink -->
+            <p>Visit the official <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a> for extensive documentation.</p>
+            
+            <!-- Example of an image placeholder -->
+            <img src="https://placeholder.com" alt="Sample Placeholder Image" width="300" height="150">
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Web Page. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+
